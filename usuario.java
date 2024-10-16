@@ -1,7 +1,6 @@
 public class Usuario {
     private String nombre;
     private String correo;
-    @SuppressWarnings("unused")
     private String contraseña;
 
     // Constructor
